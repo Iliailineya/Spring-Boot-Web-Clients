@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "img": "glasses-man.jpg",
+    "name": "Jon Doe",
+    "phone": "555 123 4331"
+  },
+  {
+    "id": 2,
+    "img": "happy-man.jpg",
+    "name": "Knock High",
+    "phone": "555 765 3236"
+  },
+  {
+    "id": 3,
+    "img": "old-man.jpg",
+    "name": "Noe Israel",
+    "phone": "555 666 9645"
+  }
+]
